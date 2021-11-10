@@ -560,7 +560,7 @@ select::-ms-expand {
   padding: 2% 7.5%;
   text-overflow: ellipsis;
   white-space: nowrap;
-  width: 330px;
+  width: 320px;
   overflow: hidden;
   font-weight: 500;
   z-index: 999;
@@ -792,7 +792,7 @@ apparel-wrapper .right-wrap .item-wrapper .item h3.title a{
   font-weight: 500;
   text-overflow: ellipsis;
   white-space: nowrap;
-  width: 220px;
+  width: 200px;
   overflow: hidden;
 }
 .swiper-pagination {
